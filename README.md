@@ -66,7 +66,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ~~~
 
 ## OUTPUT:
-![Screenshot (155)](https://github.com/user-attachments/assets/1fce97b3-4f5a-4481-876e-7aa1e423501e)
+![Screenshot (155)](https://github.com/user-attachments/assets/78632123-7546-478d-90eb-18f9f69eecf5)
+
 
 
 ## RESULT:
